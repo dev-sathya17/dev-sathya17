@@ -115,7 +115,7 @@ As I embark on my journey in tech, I’m currently focusing on the following are
 - Developed a React Native mobile app, *Recharge Console*, with MySQL and Flask. 
 - Managed roles for Admin, Distributor, and Retailer, providing mobile and DTH recharge functionality and detailed transaction reports.
 
-## 🛠️ Internships and Certifications
+## 🎓 Internships and Certifications
 ### Zen Full Stack Developer, MERN - GUVI GEEKS,Chennai (May 2024 - July 2024)
 - Strengthened proficiency in JavaScript and its ecosystem.
 - Gained expertise in designing NoSQL schemas and working with MongoDB, along with building robust backends using Express and Node.js.
@@ -137,8 +137,6 @@ As I embark on my journey in tech, I’m currently focusing on the following are
 ### Summer Internship - Zoho Corporation (May 2022 – Jun 2022)
 - Built a console application version of *Stockmaster* using Java and MySQL.
 
-### Virtual Internship - Emertxe Institute (Nov 2021 – Dec 2021)
-- Simulated a real-time microwave oven using a PIC16F877A Microcontroller.
 
 ## 🎓 Education
 **Bachelor of Technology (B.Tech.)** in Electrical and Electronics Engineering  
