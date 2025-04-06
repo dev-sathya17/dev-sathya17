@@ -161,7 +161,7 @@ As I embark on my journey in tech, I’m currently focusing on the following are
 ## 🎓 Education
 **Bachelor of Technology (B.Tech.)** in Electrical and Electronics Engineering  
 Sri Manakula Vinayagar Engineering College (2019 – 2023)  
-  - Completed B.Tech in Electrical and Electronics Engineering with a CGPA of 9.16.
+- Completed B.Tech in Electrical and Electronics Engineering with a CGPA of 9.16.
 
   ### Activities & Societies:
     - Class Representative
