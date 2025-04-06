@@ -1,13 +1,17 @@
 # Hi there! I'm Sathyanarayanan V 👋
-I'm a passionate full stack developer and web dev enthusiast, eager to contribute to innovative products that reach and impact millions of users worldwide.
+I'm  a Full-stack developer passionate about building scalable, real-time web apps using React, Node.js, and AWS. Committed to clean code, intuitive UX, and delivering robust, production-grade solutions.
 
 ## 🙋‍♂️ About Me
 
-I’m **Sathyanarayanan V**, a dedicated full stack developer with a passion for crafting efficient, scalable web applications. With hands-on experience in building real-time solutions across diverse domains—from stock trading platforms to project management tools—I thrive on leveraging technology to solve complex problems.
+Hey! I’m **Sathyanarayanan V**, a passionate full-stack developer who loves building fast, scalable, and real-time web applications. I specialize in **React**, **TypeScript**, **Node.js**, **Flask**, and **AWS**, and enjoy working across the full stack to create user-focused, production-grade solutions.
 
-My journey includes expertise in Java, Python, React, and more, where I've delivered impactful solutions during my time at **Zoho Corporation** and as a **freelancer**. Whether it’s developing a robust back-end or designing intuitive front-end interfaces, my goal is to create products that make a meaningful difference in the lives of users.
+Currently, I’m part of the core engineering team at **Slique Robotics**, where I lead the development of real-time control systems for robots, integrate WebSockets for telemetry, and manage scalable cloud infra on AWS. I’ve also built impactful products as a **freelancer**, leading IoT projects end-to-end and delivering custom mobile apps using **React Native** and **Flask** APIs.
 
-Driven by curiosity and a love for continuous learning, I’m always exploring new tools and technologies to bring cutting-edge solutions to life.
+Previously at **Zoho**, I developed a full-fledged stock trading platform and optimized backend workflows, laying the foundation for my backend engineering mindset.
+
+Beyond code, I’ve been a **student leader** — organizing technical talks, mentoring peers, and driving club initiatives in programming and embedded systems.
+
+I thrive in collaborative teams, love solving meaningful problems, and am always exploring new tools to sharpen my craft. Let’s connect and build something impactful together! 🚀
 
 ## 🛠️ Technical Skills
 ### Frontend Technologies:
