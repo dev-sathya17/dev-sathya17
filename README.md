@@ -14,6 +14,7 @@ Driven by curiosity and a love for continuous learning, I’m always exploring n
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![ReactJS](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 
 ### Backend Technologies:
@@ -34,9 +35,14 @@ Driven by curiosity and a love for continuous learning, I’m always exploring n
 ![ReactJS](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![React-Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
+### Cloud:
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
 ### Tools:
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 ### Version Control:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -48,8 +54,7 @@ As I embark on my journey in tech, I’m currently focusing on the following are
 1. **Microservices**: Investigating the Microservices architecture to develop scalable services that can be reused and independently managed. ![Microservices Icon](https://shields.io/badge/microservices-007ACC)
 2. **Containerization**: Delving into Containerization techniques with Docker and Kubernetes to streamline application deployment. ![Docker Icon](https://shields.io/badge/docker-2496ED) ![Kubernetes Icon](https://shields.io/badge/kubernetes-326CE5)
 3. **Next.js**: Exploring Next.js, a powerful React framework, to enhance my understanding of server-side rendering capabilities. ![Next.js Icon](https://shields.io/badge/next.js-000000)
-4. **TypeScript**: Learning TypeScript to enforce strict data types and improve code quality. ![TypeScript Icon](https://shields.io/badge/typescript-007ACC)
-5. **CSS Frameworks**: Initiating my journey with CSS frameworks like Bootstrap and Tailwind CSS to enhance my styling skills. ![Bootstrap Icon](https://shields.io/badge/bootstrap-7952B3) ![Tailwind CSS Icon](https://shields.io/badge/tailwindcss-06B6D4)
+4. **CSS Frameworks**: Initiating my journey with CSS frameworks like Bootstrap and Tailwind CSS to enhance my styling skills. ![Bootstrap Icon](https://shields.io/badge/bootstrap-7952B3) ![Tailwind CSS Icon](https://shields.io/badge/tailwindcss-06B6D4)
 
 ## 🚀 Projects
 
@@ -111,9 +116,29 @@ As I embark on my journey in tech, I’m currently focusing on the following are
 **Tech Stack:** MERN (MongoDB, Express, React, Node.js)
 
 ## 💼 Work Experience
-**Freelance Full Stack Developer** (Dec 2023 – Feb 2024)  
-- Developed a React Native mobile app, *Recharge Console*, with MySQL and Flask. 
-- Managed roles for Admin, Distributor, and Retailer, providing mobile and DTH recharge functionality and detailed transaction reports.
+**Senior Full Stack Developer - Slique Robotics** (Nov 2014 – Present)  
+- Implemented RBAC with React, TypeScript, and Flask, securing and managing access for 20+ users.
+- Led a full UI revamp, introducing dark/light mode via Context API, boosting onboarding (−20% drop-offs) and engagement (−15% bounce).
+- Optimized robotic control APIs with Flask & PostgreSQL, cutting latency by 40% and improving real-time accuracy.
+- Integrated Web Sockets for low-latency telemetry, enabling seamless control for 10+ robotic systems.
+- Managed AWS infrastructure (EC2, IoT Core, DynamoDB, Lambda, SES), ensuring 99.9% uptime. Automated reporting workflows with AWS SES & Lambda enabling real-time alerts and reducing manual ffort by 30%.
+- Improved API efficiency, cutting server calls by 50% and reducing latency by 30%, resulting in faster data processing.
+- Contributed to Agile development cycles using Jira for sprint planning, task tracking, and delivery of prioritized features.
+- Launched a Node.js + React (TS) landing page on AWS EC2 (Ubuntu) with Nginx, ensuring 99.9% uptime and <1s load times. Instrumented Google Analytics for scroll and clickstream tracking to measure engagement.
+  
+**Full Stack Developer - Edusphere Solutions, Puducherry** (May 2023 – May 2024)  
+- Supervised a 3-member engineering team to deliver 15+ end-to-end IoT projects, ensuring 100% on-time completion.
+- Partnered with clients to define scope and ship 15+ custom IoT solutions on time.
+- Architected mobile frontends with React Native, enabling device monitoring and improving IoT system visibility by 40%.
+- Designed secure REST APIs with Flask & MySQL for 5+ applications, ensuring scalable data flow.
+- Shipped 2 React Native apps – Recharge Console & TeaBench – streamlining financial and order management.
+- Recharge Console: Accelerated mobile recharge efficiency by 15% and user satisfaction by 20% using Flask & MySQL.
+- TeaBench: Reduced order processing time by 40% and manual billing effort by 50% with expo-print & RawBT.
+  
+### Project Trainee (Backend) - Zoho Corporation (Aug 2022 – Mar 2023)
+- Engineered *Stockmaster* — a Java-based trading platform with real-time price simulations, portfolio exports, and admin stock management — leveraging MySQL, JSP, and Servlets to streamline operations and cut user processing time by 35%.
+- Enhanced the mail module’s reliability and performance by refactoring validation processes, ensuring accurate mail reception and response by 5%.
+- Resolved UTF-8-character handling issues in the mail module, improving compatibility and user experience by 8%.
 
 ## 🎓 Internships and Certifications
 ### Zen Full Stack Developer, MERN - GUVI GEEKS,Chennai (May 2024 - July 2024)
@@ -129,11 +154,6 @@ As I embark on my journey in tech, I’m currently focusing on the following are
 - Gained proficiency in key tools and frameworks such as React.js, Flask, React Native, and Django.
 - Sharpened expertise in HTML, CSS, JavaScript, Python, and MySQL, enhancing both front-end and back-end development skills.
 
-### Project Trainee - Zoho Corporation (Aug 2022 – Mar 2023)
-- Developed *Stockmaster*, a Java web application using MySQL on a Tomcat server.
-- Simulated real-time stock trading and portfolio management.
-- Improved Zoho Mail module with enhanced UTF-8 character handling and validation processes.
-
 ### Summer Internship - Zoho Corporation (May 2022 – Jun 2022)
 - Built a console application version of *Stockmaster* using Java and MySQL.
 
@@ -141,11 +161,18 @@ As I embark on my journey in tech, I’m currently focusing on the following are
 ## 🎓 Education
 **Bachelor of Technology (B.Tech.)** in Electrical and Electronics Engineering  
 Sri Manakula Vinayagar Engineering College (2019 – 2023)  
-CGPA: 9.16
+  - Completed B.Tech in Electrical and Electronics Engineering with a CGPA of 9.16.
 
-## 🎉 Co-curricular Activities
-- Student Coordinator, IEEE Student Branch: Organized guest lectures by industry experts.
-- Student Coordinator, Department Club Activities: Organized competitions like coding and bot-building challenges.
+  ### Activities & Societies:
+    - Class Representative
+    - Student Coordinator – IEEE Student Branch
+    - Student Coordinator – Department Club Activities
+
+  ### 🎉 Highlights:
+    - Actively led student initiatives as Student Coordinator for IEEE, organizing guest lectures by industry professionals to bridge academic learning with real-world insights.
+    - Spearheaded department-level club events as Club Coordinator, conducting:
+        ▪ Coding Challenges (Programming Club)
+        ▪ Bot-Building Competitions (Embedded Systems Club)
 
 ## 📊 GitHub Stats
 
