@@ -120,7 +120,7 @@ As I embark on my journey in tech, I’m currently focusing on the following are
 **Tech Stack:** MERN (MongoDB, Express, React, Node.js)
 
 ## 💼 Work Experience
-**Senior Full Stack Developer - Slique Robotics** (Nov 2014 – Present)  
+### Senior Full Stack Developer - Slique Robotics (Nov 2024 – Jun 2025)  
 - Implemented RBAC with React, TypeScript, and Flask, securing and managing access for 20+ users.
 - Led a full UI revamp, introducing dark/light mode via Context API, boosting onboarding (−20% drop-offs) and engagement (−15% bounce).
 - Optimized robotic control APIs with Flask & PostgreSQL, cutting latency by 40% and improving real-time accuracy.
@@ -130,7 +130,7 @@ As I embark on my journey in tech, I’m currently focusing on the following are
 - Contributed to Agile development cycles using Jira for sprint planning, task tracking, and delivery of prioritized features.
 - Launched a Node.js + React (TS) landing page on AWS EC2 (Ubuntu) with Nginx, ensuring 99.9% uptime and <1s load times. Instrumented Google Analytics for scroll and clickstream tracking to measure engagement.
   
-**Full Stack Developer - Edusphere Solutions, Puducherry** (May 2023 – May 2024)  
+### Full Stack Developer - Edusphere Solutions, Puducherry (May 2023 – May 2024)  
 - Supervised a 3-member engineering team to deliver 15+ end-to-end IoT projects, ensuring 100% on-time completion.
 - Partnered with clients to define scope and ship 15+ custom IoT solutions on time.
 - Architected mobile frontends with React Native, enabling device monitoring and improving IoT system visibility by 40%.
@@ -153,7 +153,7 @@ As I embark on my journey in tech, I’m currently focusing on the following are
 - Enhanced UI design skills, focusing on visual aesthetics and user interaction.
 - Deepened knowledge of version control using Git and GitHub for better collaboration and project management.
 
-### Python Fullstack Certification - Edusphere Solutions, Puducherry (Jun 2023 - Nov 2023)
+### Python Fullstack Certification - Edusphere Solutions, Puducherry (May 2023 - Nov 2023)
 - Acquired a solid foundation in web development fundamentals.
 - Gained proficiency in key tools and frameworks such as React.js, Flask, React Native, and Django.
 - Sharpened expertise in HTML, CSS, JavaScript, Python, and MySQL, enhancing both front-end and back-end development skills.
@@ -173,6 +173,7 @@ Sri Manakula Vinayagar Engineering College (2019 – 2023)
     - Student Coordinator – Department Club Activities
 
   ### 🎉 Highlights:
+    - Led and co-invented a published patent: **ML-based motherboard cleaning system using Raspberry Pi** — currently under examination.
     - Actively led student initiatives as Student Coordinator for IEEE, organizing guest lectures by industry professionals to bridge academic learning with real-world insights.
     - Spearheaded department-level club events as Club Coordinator, conducting:
         ▪ Coding Challenges (Programming Club)
