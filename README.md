@@ -122,13 +122,14 @@ As I embark on my journey in tech, I’m currently focusing on the following are
 ## 💼 Work Experience
 ### Senior Full Stack Developer - Slique Robotics (Nov 2024 – Jun 2025)  
 - Implemented RBAC with React, TypeScript, and Flask, securing and managing access for 20+ users.
-- Led a full UI revamp, introducing dark/light mode via Context API, boosting onboarding (−20% drop-offs) and engagement (−15% bounce).
+- Led a full UI revamp, introducing dark/light mode via Context API, boosting onboarding and engagement (−15% bounce).
 - Optimized robotic control APIs with Flask & PostgreSQL, cutting latency by 40% and improving real-time accuracy.
 - Integrated Web Sockets for low-latency telemetry, enabling seamless control for 10+ robotic systems.
-- Managed AWS infrastructure (EC2, IoT Core, DynamoDB, Lambda, SES), ensuring 99.9% uptime. Automated reporting workflows with AWS SES & Lambda enabling real-time alerts and reducing manual ffort by 30%.
-- Improved API efficiency, cutting server calls by 50% and reducing latency by 30%, resulting in faster data processing.
+- Managed AWS infrastructure (EC2, IoT Core, DynamoDB, Lambda, SES), ensuring 99.9% uptime.
 - Contributed to Agile development cycles using Jira for sprint planning, task tracking, and delivery of prioritized features.
-- Launched a Node.js + React (TS) landing page on AWS EC2 (Ubuntu) with Nginx, ensuring 99.9% uptime and <1s load times. Instrumented Google Analytics for scroll and clickstream tracking to measure engagement.
+- Launched a Node.js + React (TS) landing page on AWS EC2 (Ubuntu) with Nginx, ensuring 99.9% uptime and faster load times.
+- Instrumented Google Analytics for scroll and clickstream tracking to measure engagement.
+- Crafted responsive UIs in Next.js with Tailwind CSS and designed REST APIs with OAuth for Google, Outlook, and GitHub
   
 ### Full Stack Developer - Edusphere Solutions, Puducherry (May 2023 – May 2024)  
 - Supervised a 3-member engineering team to deliver 15+ end-to-end IoT projects, ensuring 100% on-time completion.
