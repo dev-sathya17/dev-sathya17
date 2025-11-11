@@ -8,7 +8,7 @@ Hey! I’m **Sathyanarayanan V**, a passionate full-stack developer who loves bu
 **Freelance Work:**  
 Built end-to-end products including an **e-commerce platform** using the **MERN stack** with AWS-based CI/CD pipelines, and an **event-driven Python trading bot** with async queues, PostgreSQL, and a React + TypeScript dashboard.  
 
-Previously at **Slique Robotics**, I was part of the core engineering team, where I lead the development of real-time control systems for robots, integrate WebSockets for telemetry, and manage scalable cloud infra on AWS. 
+Previously at **Slique Robotics**, I was part of the core engineering team, where I lead the development of real-time control systems for robots, integrate WebSockets for teleoperation, and manage scalable cloud infra on AWS. 
 
 **Previously at Edusphere Solutions:**  
 Delivered 25+ **IoT-driven apps** and **React Native** mobile solutions, improving system visibility and operational efficiency for clients.  
