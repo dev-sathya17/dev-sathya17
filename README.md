@@ -5,7 +5,13 @@ I'm  a Full-stack developer passionate about building scalable, real-time web ap
 
 Hey! I’m **Sathyanarayanan V**, a passionate full-stack developer who loves building fast, scalable, and real-time web applications. I specialize in **React**, **TypeScript**, **Node.js**, **Flask**, and **AWS**, and enjoy working across the full stack to create user-focused, production-grade solutions.
 
-Currently, I’m part of the core engineering team at **Slique Robotics**, where I lead the development of real-time control systems for robots, integrate WebSockets for telemetry, and manage scalable cloud infra on AWS. I’ve also built impactful products as a **freelancer**, leading IoT projects end-to-end and delivering custom mobile apps using **React Native** and **Flask** APIs.
+**Freelance Work:**  
+Built end-to-end products including an **e-commerce platform** using the **MERN stack** with AWS-based CI/CD pipelines, and an **event-driven Python trading bot** with async queues, PostgreSQL, and a React + TypeScript dashboard.  
+
+Previously at **Slique Robotics**, I was part of the core engineering team, where I lead the development of real-time control systems for robots, integrate WebSockets for telemetry, and manage scalable cloud infra on AWS. 
+
+**Previously at Edusphere Solutions:**  
+Delivered 25+ **IoT-driven apps** and **React Native** mobile solutions, improving system visibility and operational efficiency for clients.  
 
 Previously at **Zoho**, I developed a full-fledged stock trading platform and optimized backend workflows, laying the foundation for my backend engineering mindset.
 
@@ -120,6 +126,23 @@ As I embark on my journey in tech, I’m currently focusing on the following are
 **Tech Stack:** MERN (MongoDB, Express, React, Node.js)
 
 ## 💼 Work Experience
+### Freelance Full Stack Developer (Jun 2025 – Present)  
+**Project 1 – E-Commerce Platform (MERN Stack | AWS | CI/CD)**  
+- Developed a full-stack e-commerce application for a food-based client using **MongoDB**, **Express.js**, **React.js**, and **Node.js**, improving order flow efficiency by ~30%.  
+- Designed scalable **RESTful APIs** with caching and optimized data models, reducing API response time by ~25%.  
+- Applied **SOLID principles** and modular architecture to improve maintainability and extensibility.  
+- Implemented **JWT authentication**, rate limiting, and validation for secure endpoints.  
+- Configured **AWS EC2** for backend deployment and **Amplify + S3** for frontend hosting and file storage.  
+- Built a **CI/CD pipeline** with **GitHub Actions**, automating test, build, and deploy stages, cutting deployment time by ~40%.
+
+**Project 2 – Python Trading Bot (Python | Flask | PostgreSQL | React)**  
+- Engineered an **event-driven trading bot** with async queues for real-time trading, achieving sub-100 ms execution latency.  
+- Automated end-to-end trade workflows with **file-based and database logging** for analytics and performance tracking.  
+- Designed communication protocols with brokers’ APIs for reliable, high-frequency trade execution.  
+- Currently developing a **React + TypeScript + Tailwind CSS dashboard** powered by a **Flask backend** for live monitoring and manual controls.  
+
+**_Tech Stack:_** React.js, Node.js, Express.js, MongoDB, AWS (EC2, Amplify, S3), GitHub Actions, Python, Flask, PostgreSQL, TypeScript, Tailwind CSS, WebSockets, AsyncIO, REST API  
+  
 ### Senior Full Stack Developer - Slique Robotics (Nov 2024 – Jun 2025)  
 - Implemented RBAC with React, TypeScript, and Flask, securing and managing access for 20+ users.
 - Led a full UI revamp, introducing dark/light mode via Context API, boosting onboarding and engagement (−15% bounce).
